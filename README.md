@@ -65,9 +65,9 @@
      Consider: context length limits, multilingual support, accuracy on domain-specific text,
      latency, and local vs. API-hosted. -->
 
-**Model used:**
+**Model used:**all-MiniLM-L6-v2 via sentence-transformers
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:**For a real deployment, the most important tradeoff I would weigh is retrieval accuracy on domain-specific informal text.
 
 ---
 
