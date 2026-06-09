@@ -22,18 +22,19 @@
      Be specific: include URLs, subreddit names, forum thread titles, or file names.
      Aim for variety — sources that together cover different subtopics or perspectives. -->
 
+
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Best CS professors at BU discussion| Reddit thread| https://www.reddit.com/r/BostonU/comments/11dwqct/for_anyone_who_is_in_cs_who_are_some_professors/|
+| 2 | General discussion of BU CS department quality | Reddit thread| https://www.reddit.com/r/BostonU/comments/18771oj/how_is_cs_at_bu/|
+| 3 |CS112 with Papadakis-Kanaris (CPK) opinions| Reddit thread| https://www.reddit.com/r/BostonU/comments/1b208zp/cs112_cpk_opinion/|
+| 4 | Rate My Professors - Prof. CPK | Professor review | https://www.ratemyprofessors.com/professor/2284300|
+| 5 | Rate My Professors - Prof. Sullivan | Professor review| https://www.ratemyprofessors.com/professor/953067|
+| 6 | Rate My Professors - Prof. Preethi| Professor review| https://www.ratemyprofessors.com/professor/2928441|
+| 7 | Rate My Professors - Prof. Tiago | Professor review| https://www.ratemyprofessors.com/professor/2944043|
+| 8 | Rate My Professors - Prof. Wood| Professor review| https://www.ratemyprofessors.com/professor/2834322|
+| 9 | Rate My Professors - Prof. Erdos| Professor review| https://www.ratemyprofessors.com/professor/2239141|
+| 10 | Rate My Professors - Prof. Crovella| Professor review| https://www.ratemyprofessors.com/professor/615539|
 
 ---
 
@@ -46,13 +47,13 @@
      - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
      - What your final chunk count was across all documents -->
 
-**Chunk size:**
+**Chunk size:** 500 characters
 
-**Overlap:**
+**Overlap:** 100 characters
 
-**Why these choices fit your documents:**
+**Why these choices fit your documents:** My sources consists of short to medium length reviews where information is often contained within one or two paragraphs. I belive chunk size of 500 characters is suitable because it is large enough to preserve complete opinions and the context while remaining small enough for precise retrieval. 
 
-**Final chunk count:**
+**Final chunk count:**56
 
 ---
 
