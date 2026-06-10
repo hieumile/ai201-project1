@@ -78,7 +78,7 @@ My domain is student review of CS professor at Boston University. This knowledge
 | 2 | What opinions do students have about Christine Papadakis-Kanaris (CPK) as an instructor for CS112?|reviews regarding CPK are controversial. Some says that she is knowledgeable and supportive while other comments that her lectures are hard to follow |
 | 3 | Which BU CS professors are most frequently recommended by students?| Professor David Sullivan|
 | 4 | What opinions do students have about Mark Crovella?|  Students frequently describe him as "Awesome" (13 ratings) or "Great" (9 ratings), with very few lower ratings|
-| 5 | What opinions do students have about Andrew Wood?|  Students frequently describe him as funny, engaging, and highly caring. He is known for using geometric patterns to teach concepts, making complex topics morIe approachable.|
+| 5 | What opinions do students have about Andrew Wood?|  Students frequently describe him as funny, engaging, and highly caring. He is known for using geometric patterns to teach concepts, making complex topics more approachable.|
 
 ---
 
